@@ -14,7 +14,6 @@ for (int i = 1; i <= A; i++)
 {
    int  X=i*i;
     Console.Write(X+" ");
-    X++;
 }
 
 
